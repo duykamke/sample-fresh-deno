@@ -1,0 +1,17 @@
+{
+  "name": "zuiverse",
+  "module": "index.ts",
+  "devDependencies": {
+    "bun-types": "latest",
+    "tailwindcss": "^3.3.3"
+  },
+  "peerDependencies": {
+    "typescript": "^5.0.0"
+  },
+  "type": "module",
+  "dependencies": {
+    "@elysiajs/html": "^0.6.5",
+    "@elysiajs/static": "^0.6.0",
+    "elysia": "^0.6.23"
+  }
+}
